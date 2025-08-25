@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: a small site similar to Pterodactyl, designed to quickly launch small APIs 🚀.<br><br>🌱 I’m currently learning: TailwindCSS and diving deeper into full-stack development.<br><br>💬 Ask me about: web development, Minecraft plugin and mod development, or anything Java, PHP, CSS, JS, HTML, and SEO related!<br><br>⚡ Fun fact: Being a student doesn’t stop me from contributing to projects or creating my own!
+🔭 I’m currently working on: a small ai 🚀.<br><br>🌱 I’m currently learning: TailwindCSS and diving deeper into full-stack development.<br><br>💬 Ask me about: web development, Minecraft plugin and AIs, or anything Java, PHP, CSS, JS, HTML, and SEO related!<br><br>⚡ Fun fact: Being a student doesn’t stop me from contributing to projects or creating my own!
 
 
 ## 🌐 Socials:
